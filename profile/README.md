@@ -31,7 +31,7 @@ sequenceDiagram
     iframe->>iframe: render mermaid
 ```
 
-```mermaid-example
+```mermaid
     gitGraph
        commit
        commit
